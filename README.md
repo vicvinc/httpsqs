@@ -1,10 +1,10 @@
 # httpsqs
 
-Automatically exported from code.google.com/p/httpsqs
+Automatically exported from <a href='code.google.com/p/httpsqs'>code.google.com/p/httpsqs</a>
 
-this git repo exported from code.google.com/p/httpsqs, and the author is ZhangYan(@http://zyan.cc/httpsqs/)
+this git repo exported from `code.google.com/p/httpsqs`, and the author is ``ZhangYan``(@http://zyan.cc/httpsqs/)
 
 I wish this repo could be continued with more feature.
 
-and,this repo is under the New BSD License.
+this repo is under the New `BSD` License.
 
