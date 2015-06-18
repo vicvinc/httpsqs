@@ -8,17 +8,19 @@ I wish this repo could be continued with more feature.
 
 this repo is under the New `BSD` License.
 
-compile && install:
-  require:
-    bzip2
-    tokyocabinet
-    libevent
-  then:
-    make 
-    make install
-
-usage:
-  #httpsqs -h
+compile && install:</br>
+  <ul>require:
+    <li>bzip2</li>
+    <li>tokyocabinet</li>
+    <li>libevent</li>
+  </ul>
+  <ul>then:
+    <li>make </li>
+    <li>make install</li>
+  </ul>
+  <ul>usage:<br>
+    <li>#httpsqs -h</li>
+  </ul>
 
 
 to be continued...
