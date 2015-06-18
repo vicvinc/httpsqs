@@ -8,3 +8,17 @@ I wish this repo could be continued with more feature.
 
 this repo is under the New `BSD` License.
 
+compile && install:
+  require:
+    bzip2
+    tokyocabinet
+    libevent
+  then:
+    make 
+    make install
+
+usage:
+  #httpsqs -h
+
+
+to be continued...
